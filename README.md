@@ -1,1 +1,1 @@
-Clone the template and make changes accordingly.
+Clone the template and make changes accordingly in index.html
