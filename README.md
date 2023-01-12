@@ -1,5 +1,5 @@
 <br/>
-![placeholder](/assets/image.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![placeholder](/assets/image.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 <div align="center">
 412-954-7626 | utkarshs@andrew.cmu.edu | <a href="https://www.linkedin.com/in/utk61198">LinkedIn</a> |  <a href = "https://github.com/utk61198">GitHub</a>
