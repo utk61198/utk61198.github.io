@@ -34,12 +34,7 @@
   - Machine Learning Summer Intern 5/2019 - 7/2019
     - Implemented Sentiment Analysis, Intent Analysis, Subject Verb Object (SVO) detection, and Auto Keyword Tagging to create a personalized news feed for more than 8000 users on Amarujala.com
     
-## ACADEMIC PROJECTS
-- EFFICIENT FRAMEWORK FOR ADDRESSING COVARIATE SHIFT IN MACHINE LEARNING 9/2021 - 1/2022
-  - Created a framework to reduce the computational cost for finding a pair of the correct re-weighting algorithm (KMM, RuLSIF, KLIEP) and Deep Learning model (DenseNet121, ResNet50, and a baseline CNN) to tackle Covariate Shift and get the most optimal model performance
-  - Proposed methodology encompasses a comprehensive empirical evaluation across MNIST-C, CIFAR10- C, SVHN, and STL-10 datasets; Reduced the computational search space for finding the pair by 56.25% while achieving near-best accuracy
-- SERVICES AND SUPPORT RECOMMENDATION SYSTEM 11/2020 - 12/2020
-  - Devised a web application using Flask powered by content-based filtering that used web
+
 ## ACADEMIC PROJECTS
 - EFFICIENT FRAMEWORK FOR ADDRESSING COVARIATE SHIFT IN MACHINE LEARNING 9/2021 - 1/2022
   - Created a framework to reduce the computational cost for finding a pair of the correct re-weighting algorithm (KMM, RuLSIF, KLIEP) and Deep Learning model (DenseNet121, ResNet50, and a baseline CNN) to tackle Covariate Shift and get the most optimal model performance
