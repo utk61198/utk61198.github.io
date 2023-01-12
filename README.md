@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div align="center">
-412-954-7626 | utkarshs@andrew.cmu.edu | <a href="https://www.linkedin.com/in/utk61198">LinkedIn</a> |  <a href = "https://github.com/utk61198">GitHub</a>
+412-954-7626 | contact@utkarsh-sharma.com | <a href="https://www.linkedin.com/in/utk61198">LinkedIn</a> |  <a href = "https://github.com/utk61198">GitHub</a>
 </div>
 
 
