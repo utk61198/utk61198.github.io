@@ -1,8 +1,10 @@
 <br/>
 ![placeholder](/assets/image.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div align="center">
+412-954-7626 | utkarshs@andrew.cmu.edu | <a href="https://www.linkedin.com/in/utk61198">LinkedIn</a> |  <a href = "https://github.com/utk61198">GitHub</a>
+</div>
 
-412-954-7626 | utkarshs@andrew.cmu.edu | [LinkedIn](https://www.linkedin.com/in/utk61198) | [GitHub](https://github.com/utk61198)
 
 ## EDUCATION
 - CARNEGIE MELLON UNIVERSITY
