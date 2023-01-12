@@ -1,5 +1,5 @@
 <br/>
-<img src="assets/image.png" width="200" height="200"/>
+![placeholder](/assets/image.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 412-954-7626 | utkarshs@andrew.cmu.edu | [LinkedIn](https://www.linkedin.com/in/utk61198) | [GitHub](https://github.com/utk61198)

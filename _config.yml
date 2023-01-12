@@ -1,5 +1,5 @@
 title: "Utkarsh Sharma"
-description: "Hi! Welcome to my corner of the  internet. I am an aspiring Data Scientist and pursuing a masters's in Information Systems Management with concentration in Business Intelligence and Data Analytics at Carnegie Mellon University."
+description: "Hi! Welcome to my corner of the  internet. I am an aspiring Data Scientist and pursuing a master's degree in Information Systems Management with concentration in Business Intelligence and Data Analytics at Carnegie Mellon University."
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
