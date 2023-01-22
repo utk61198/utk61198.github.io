@@ -47,4 +47,4 @@
 - The Role of ESG in Sustainable Development: An Analysis through the Lens of Machine Learning.
   2021 IEEE International Humanitarian Technology Conference, [Link](https://ieeexplore.ieee.org/document/9698939)
   - Constructed a novel dataset housing ESG parameters for conducting regression analysis of more than 1400 corporations listed in the stock exchanges worldwide
-  - Successfully developed a random forest regressor to accurately predict the growth variables such as “profit margin” and “return on equity” and increased the adjusted R square by 5%
+  - Successfully developed a random forest regressor to accurately predict the growth variables such as “profit margin” and “return on equity” and increased the adjusted R square by 5%.
