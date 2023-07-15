@@ -1,6 +1,6 @@
 <br/>
 
-<img align="center" width="200" height="200" src="assets/image.png">
+<img align="center" width="200" height="200" src="assets/image-modified.png">
 
 <br/>
 412-954-7626 | contact@utkarsh-sharma.com | <a href="https://www.linkedin.com/in/utk61198">LinkedIn</a> |  <a href = "https://github.com/utk61198">GitHub</a>
