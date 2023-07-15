@@ -13,12 +13,19 @@
   - Bachelor of Technology, Computer Science and Engineering
 
 ## SKILLS AND COURSEWORK
-- Programming Languages: C, C++, Python, Java, JavaScript, R, SQL
-- Technologies: React, React Native, Angular, Flask
-- Libraries: Tensorflow, Pytorch, Keras, NLTK, OpenCV, Pandas, Numpy
-- Coursework: Data Focused Python, Java for Application programming, Data Structures for Application Programming, Machine Learning through R, Discrete Mathematics, Research Methods in Computing
+- Core Skills: Python, Data Science, Machine Learning, Supervised Learning, Deep Learning, Data Engineering, Inferential Statistics, Machine Learning Theory
+
+- 
 
 ## WORK EXPERIENCE
+- CAPITAL ONE
+  - Data Science Intern (Anti Money Laundering Team)
+   -  Developed a standardized data science package for the Anti Money Laundering team.Package enabled automated tuning and feature selection of AML models.Interoperable with scikit-learn, supporting the entire data science pipeline.
+   - Reduced turnaround time for model experimentation and report generation.
+   - Improved efficiency of reporting Suspicious Activity Reports (SAR) and AML alerts.
+   - Employed various sampling strategies to handle highly unbalanced datasets.
+   - Contributed to a more accurate identification of suspicious activities.
+   - Strengthened the organization's ability to combat financial crimes effectively. 
 - DELL TECHNOLOGIES
   - Software Engineer – 1 8/2021 - 7/2022
     - Engineered REST APIs using NodeJS and Python to distribute Enterprise Analytics Applications to 4000+ employees.
