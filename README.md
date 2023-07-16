@@ -100,7 +100,7 @@
 
 ## WORK EXPERIENCE
 **Capital One**
-  - **Data Science Intern (Anti Money Laundering Team) (8/2021 - 7/2022)**
+  - **Data Science Intern (Anti Money Laundering Team) (6/2023 - Present)**
     - Developed a standardized data science package for the Anti Money Laundering team.
     - Reduced turnaround time for model experimentation and report generation.
     - Improved efficiency of reporting Suspicious Activity Reports (SAR) and AML alerts.
