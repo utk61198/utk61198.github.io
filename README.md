@@ -75,18 +75,12 @@
   - Constructed a novel dataset housing ESG parameters for conducting regression analysis of more than 1400 corporations listed in the stock exchanges worldwide
   - Successfully developed a random forest regressor to accurately predict the growth variables such as “profit margin” and “return on equity” and increased the adjusted R square by 5%. -->
 
-
----
-
 <img align="center" width="200" height="200" src="assets/image.png">
 
----
 
 **Utkarsh Sharma**  
 412-954-7626 | contact@utkarsh-sharma.com  
 [LinkedIn](https://www.linkedin.com/in/utk61198) | [GitHub](https://github.com/utk61198)
-
----
 
 ## EDUCATION
 
@@ -106,8 +100,7 @@
 
 ## WORK EXPERIENCE
 **Capital One**
-  - **Data Science Intern (Anti Money Laundering Team)**
-    - 6/2023 - Present
+  - **Data Science Intern (Anti Money Laundering Team) (8/2021 - 7/2022)**
     - Developed a standardized data science package for the Anti Money Laundering team.
     - Reduced turnaround time for model experimentation and report generation.
     - Improved efficiency of reporting Suspicious Activity Reports (SAR) and AML alerts.
@@ -115,22 +108,19 @@
     - Contributed to a more accurate identification of suspicious activities.
 
 **Dell Technologies**
-  - **Software Engineer – 1**
-    - 8/2021 - 7/2022
+  - **Software Engineer – 1 (8/2021 - 7/2022)**
     - Engineered REST APIs using NodeJS and Python to distribute Enterprise Analytics Applications to 4000+ employees.
     - Increased the enterprise applications’ CI/CD maturity scores by 32%, improving the end-user experience for more than 16,000 employees globally.
     - Designed an application using React Native to help visually impaired employees navigate. The application is internally deployed in the production environment of 4 different offices of Dell Technologies.
-  - **Software Development Intern (RSA)**
-    - 3/2021 - 6/2021
+  - **Software Development Intern (RSA) (3/2021 - 6/2021)**
     - Deployed SAML 2.0 authentication integrations with 16 different SaaS providers, supporting Single Sign-On (SSO), RADIUS, and Relying Party protocols using RSA Cloud Authentication.
-- **Undergraduate Software Development Intern**
-  - 5/2020 - 7/2020
-  - Created customized Workday Integrations for cloud applications to analyze HR and Finance data for Asia-Pacific employees.
-  - Developed a recommendation tool using Natural Language Processing to extract data from resumes and recommend a suitable candidate according to the job description from a pool of 200 candidates.
+  - **Undergraduate Software Development Intern (5/2020 - 7/2020)**
+    - Created customized Workday Integrations for cloud applications to analyze HR and Finance data for Asia-Pacific employees.
+    - Developed a recommendation tool using Natural Language Processing to extract data from resumes and recommend a suitable candidate according to the job description from a pool of 200 candidates.
 
 **Amar Ujala Web Services**
-  - **Machine Learning Summer Intern**
-    - 5/2019 - 7/2019
+  - **Machine Learning Summer Intern (5/2019 - 7/2019)**
+    
     - Implemented Sentiment Analysis, Intent Analysis, Subject Verb Object (SVO) detection, and Auto Keyword Tagging to create a personalized news feed for more than 8000 users on Amarujala.com.
 
 ---
