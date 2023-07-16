@@ -17,26 +17,26 @@
 
 
 ## WORK EXPERIENCE
-- CAPITAL ONE
-  - Data Science Intern (Anti Money Laundering Team)
+- **CAPITAL ONE**
+  - **Data Science Intern (Anti Money Laundering Team) 6/2023 - Present** 
     -  Developed a standardized data science package for the Anti Money Laundering team.Package enabled automated tuning and feature selection of AML models.Interoperable with scikit-learn, supporting the entire data science pipeline.
     - Reduced turnaround time for model experimentation and report generation.
     - Improved efficiency of reporting Suspicious Activity Reports (SAR) and AML alerts.
     - Employed various sampling strategies to handle highly unbalanced datasets.
     - Contributed to a more accurate identification of suspicious activities.
     - Strengthened the organization's ability to combat financial crimes effectively. 
-- DELL TECHNOLOGIES
-  - Software Engineer – 1 8/2021 - 7/2022
+- **DELL TECHNOLOGIES**
+  - **Software Engineer – 1 8/2021 - 7/2022**
     - Engineered REST APIs using NodeJS and Python to distribute Enterprise Analytics Applications to 4000+ employees.
     - Increased the enterprise applications’ CI/CD maturity scores by 32% therefore improving the end-user experience of more than 16,000 employees globally by making the applications more secure and stable
     - Designed an application using React Native to help visually impaired employees navigate; The application is internally deployed in the production environment of 4 different offices of Dell Technologies
-  - Software Development Intern (RSA) 3/2021 - 6/2021
+  - **Software Development Intern (RSA) 3/2021 - 6/2021**
     - Deployed SAML 2.0 authentication integrations with 16 different SaaS providers which supported Single Sign on (SSO), RADIUS, and Relying Party protocols using RSA Cloud Authentication
-  - Undergraduate Software Development Intern 5/2020 - 7/2020
+  - **Undergraduate Software Development Intern 5/2020 - 7/2020**
     - Created customized Workday Integrations for cloud applications to analyze HR and Finance data for Asia-Pacific employees
     - Developed a recommendation tool using Natural Language Processing to extract data from resumes and recommend a suitable candidate according to the job description from a pool of 200 candidates
-- AMAR UJALA WEB SERVICES
-  - Machine Learning Summer Intern 5/2019 - 7/2019
+- **AMAR UJALA WEB SERVICES**
+  - **Machine Learning Summer Intern 5/2019 - 7/2019**
     - Implemented Sentiment Analysis, Intent Analysis, Subject Verb Object (SVO) detection, and Auto Keyword Tagging to create a personalized news feed for more than 8000 users on Amarujala.com
     
 
