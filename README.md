@@ -120,7 +120,6 @@
 
 **Amar Ujala Web Services**
   - **Machine Learning Summer Intern (5/2019 - 7/2019)**
-    
     - Implemented Sentiment Analysis, Intent Analysis, Subject Verb Object (SVO) detection, and Auto Keyword Tagging to create a personalized news feed for more than 8000 users on Amarujala.com.
 
 ---
